@@ -256,7 +256,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {148598746,205152033},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
